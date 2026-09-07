@@ -118,7 +118,7 @@ Under the assumptions used in this study, the Airbus A321neo provided the strong
 
 The full project report is available on ResearchGate:
 
-[Aircraft Acquisition Decision Tool – ResearchGate](YOUR_RESEARCHGATE_LINK)
+[Aircraft Acquisition Decision Tool – ResearchGate]( 10.13140/RG.2.2.22095.85924)
 
 ## Disclaimer
 
